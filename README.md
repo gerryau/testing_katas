@@ -1,9 +1,10 @@
 # 🥋 TITAN Kata TDD Dojo
 
 ## Getting started
-1. Open the cloud IDE : [http://gitpod.io/#https://github.com/testing_katas](http://gitpod.io/#https://github.com/testing_katas)
-2. Sign in with GitHub
-3. Done.
+1. Fork Repo.
+2. Open the cloud IDE `<REPLACE GITHUB LINK WITH YOUR FORKED REPO LINK>` : [http://gitpod.io/#https://github.com/[YOUR_USERNAME_HERE]/testing_katas](#)
+3. Sign in with GitHub.
+4. Done.
 
 ## Guide
 - Write tests in the `test` folder.
